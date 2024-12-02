@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Samvel Khardalyan</h1>
 <h3 align="left">Location: Los Angeles, CA</h3>
 
-- 🔭 I’m currently working on **my TripleTen Bootcamp**
+- 🔭 I’m currently working on **my TripleTen Bootcamp.**
 - 🌱 I’m currently learning **Business Intelligence Analysis.**
 - 👯 I’m looking to collaborate on **outsourcing projects.**
 - 🤝 I’m looking for help with **breaking into tech.**
 - 👨‍💻 All of my projects are available at [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://github.com/Tiffany-Bergett/Data_projects_TripleTen/)](https://github.com/SKhardalyan/Data_projects_TripleTen/blob/main/README.md) 
 - 💬 Ask me about **TripleTen.**
 - 📫 How to reach me **skhardalyan@gmail.com**
-- 📄 Get to know about my experiences via my resume <a href='https://docs.google.com/document/d/1PPgjUzOnooYD6R7WGmYAcnWGG1NLyDUr_OVUJQIGqcM/edit?usp=sharing ' target=_blank><u>here</u>.</a>
+- 📄 Get to know about my experiences via my resume <a href='https://docs.google.com/document/d/1ftDjftT6Lwq0xmjctL0Y1HJF0iEPH4_IMkxwzXSOLOs/edit?usp=sharing ' target=_blank><u>here</u>.</a>
 - ⚡ Fun fact: **I enjoy Brazilian Jiu-Jitsu and video games!**
 
 <h3 align="left">Connect with me:
